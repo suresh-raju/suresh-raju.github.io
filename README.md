@@ -1,2 +1,1 @@
-# suresh-raju.github.io
-Suresh Raju Portfolio
+# [Suresh Raju Portfolio](https://suresh-raju.github.io/)
